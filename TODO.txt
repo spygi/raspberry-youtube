@@ -1,0 +1,15 @@
+chrome extension:
+	how to sync with the video playing locally?
+		when the req returns reset it to start_at
+	enable control of volume? - how??
+		http://www.raspberrypi.org/phpBB3/viewtopic.php?t=60842&p=455386
+	http://stackoverflow.com/questions/3853596/show-page-action-popup-on-click
+
+server:
+	allow get access from 80 to see the title of the video playing
+	1) support playlists from youtube
+	allow start_at, end_at, loop
+	caching of videos
+		download all the strings for the video ids that are visible at the moment	
+	support user playlists 
+		authentication
